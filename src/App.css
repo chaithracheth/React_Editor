@@ -51,32 +51,8 @@
   margin: 0;
   box-sizing: border-box;
   color: #ffffff;
-  /* background-color: #3883fa; */
-  /* border-bottom: 1px solid #3883fa; */
+
 }
 
 
 
-
-
-/*.ace_content {
-  position: absolute;
-  box-sizing: border-box;
-  min-width: 100%;
-  contain: style size layout;
-  font-variant-ligatures: no-common-ligatures;
-  background-color: yellow;
-*/
-
-/*.ace_layer {
-  background-color: yellow;
-  z-index: 1;
-  position: absolute;
-  overflow: hidden;
-  word-wrap: normal;
-  white-space: pre;
-  height: 100%;
-  width: 100%;
-  box-sizing: border-box;
-  pointer-events: none;
-}*/
